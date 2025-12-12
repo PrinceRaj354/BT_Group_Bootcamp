@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.input-box {
+    text-align: center;
+}
+
+.input-box input {
+    padding: 8px;
+    margin: 5px;
+    width: 150px;
+}
+
+button {
+    padding: 8px 15px;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    margin-top: 25px;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #aaa;
+    padding: 10px;
+    text-align: center;
+}
+
+.summary {
+    margin-top: 25px;
+    font-weight: bold;
+    line-height: 1.6;
+}
